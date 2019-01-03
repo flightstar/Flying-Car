@@ -3,5 +3,16 @@
 
 Tại phần đầu tiên, tôi sẽ nói về cách lập trình máy bay không người lái bằng code Python và test flight simulator. Thị trường máy bay không người lái hay còn được gọi là Drone ngày càng phát triển một cách ghê gớm trên toàn Thế giới. Drone được sử dụng rất nhiều trong an ninh quốc phòng, tìm kiếm vật liệu hóa chất, tìm người lạc, nông nghiệp có thể chăm sóc cây trồng, điện ảnh cho những khung cảnh trên cao vời vợi, giao vận,...
 
+Phương tiện bay không người lái hay Máy bay không người lái, viết tắt tiếng Anh là UAV (Unmanned aerial vehicle) là **tên gọi chỉ chung cho các loại máy bay mà không có người lái ở buồng lái, hoạt động tự lập và thường được điều khiển từ xa từ trung tâm hay máy điều khiển.** Theo sự phát triển công nghệ hiện có các dạng UAV:
+
++ **Máy bay theo nghĩa truyền thống được trang bị hệ thống điều khiển và lái tự động**, được gọi là UAS (unmanned aircraft system) 
++ **Phương tiện bay kiểu mới**, được chế tạo rất đa dạng, **có kích thước và công suất động cơ nhỏ đến trung bình, được gọi là drone.**
++ **Các drone có lắp camera để quan sát, và thường được gọi là flycam. Để thuận tiện điều khiển thao tác thì drone có nhiều cánh quạt, thường là 4.**
+
+Có nhiều hãng sản xuất thiết bị không người lái và bạn có thể lập trình phát triển:
++ [DJI](http://developer.dji.com/)
++ [Parrot](https://developer.parrot.com/index.html)
++ [Flytbase](https://flytbase.com/flytos/)
+
 
 
