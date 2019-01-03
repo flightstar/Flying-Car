@@ -72,5 +72,8 @@ Có nhiều loại máy bay không người lái được sử dụng cho nhiề
 
    ![](https://lh3.googleusercontent.com/tbKAh6LxJOtAbOxZLkeMTGgFSpuF3vpWIchXiyq01tBR8-K6RWQTU9sbjU0VBAZuUI9A8jNwL7ebgZ509Kf5X5LdeGceGu27w6eQFvbK8ndyLb_hJUYobYQe94COFFgU9epptwgbtdRzZNbFx0RW-TzANvuF1p_4odWvqPnV7fNZNd7bqtwwCx7eHmQ80SXtoQczsTfvx6QNE64_hA41Qaq0oi-CGqovGNThmmJ7MwuMSIeVIDOb4hJ-4iplgCI7oyaF3xmxJiZWY_EF59jJdWo0lLAOVJP4lU5jj5G66RoIl_o2dK-5OWtd1H8DdM4s0GeW5j2MqRHKR4YP-tfpsdSanwjUDqgNdL1EF0RMAVuhrdgs1qzzA5NJYLIAIn2DctC08EdKxxhozfwK6x-MVaKiz6SolHsIsT1FxZFxPBG55hnVDSYVM75rlwExQ10Y1xBv4Zh2uFWoLmivcGT6D4IKYxSrU3qyoShbJKTUvEUjLUvrRqWQTHG296jXPuFB_irpTE5bkrsNzEWe67OvRjyEviOTB9GRqs_ZWosFFdWI0NBueYBfSlPDxVxlxfbWQY9YTNeZH5K6NtHsaV4UFdYF-eFslviUjpQCay-GfyNoAcjJit0rD3B4Q6P9DRuzOCHYm0B4fo2khTptML-9JjBeWAQFP208e4claYABL0yjGYV_eNHd4AttE538FmpQGsUVSuSU5_G9fgJnsw=s277-no)
 
-
+Được ứng dụng nhiều trong nghiên cứu robotics, quân đội và công an được sử dụng để giám sát và trinh sát bởi các cơ quan thực thi quân sự và pháp luật, cũng như các nhiệm vụ tìm kiếm và cứu hộ trong môi trường đô thị, nhiếp ảnh, báo chí trong việc quay phim và chụp ảnh những nhân vật và diễn viên nổi tiếng, hoạt động nhân đạo cứu tế và bảo tồn thiên nhiên, nghệ thuật, thể thao drone racing,...
+## Implementation
+### Real devices
+### Simulator
 
