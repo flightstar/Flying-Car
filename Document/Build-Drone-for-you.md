@@ -26,11 +26,15 @@ Tôi cũng xin phép giới thiệu sơ qua các loại máy bay:
   ![](https://cdn.britannica.com/s:700x450/11/129811-004-9D34C115.jpg)
   
   Là loại máy bay phải sử dụng nguồn năng lượng để cung cấp lực đẩy cần thiết để có được lực nâng. Ví dụ về thiết bị bay nặng hơn không khí như diều, máy bay không người lái, tàu lượn bay (hang-gliding),...
-
+  ![](https://cdn.britannica.com/s:700x450/63/100263-004-8F5C54B4.jpg)
 + Civil aircraft
   
-  ![](https://cdn.britannica.com/s:700x450/34/196734-004-BC985875.jpg)
+  Tất cả các máy bay phi quân sự là máy bay dân dụng. Chúng bao gồm máy bay tư nhân và kinh doanh và máy bay thương mại.
   
+  ![](https://cdn.britannica.com/s:700x450/44/93544-004-A211D18D.jpg)
+  
+  Hai cánh và ở giữa hai hai cánh (nơi giữa thân máy bay) để chứa xăng máy bay. Người ta thường bơm xăng vào hai cánh trước rồi mới thân giữa.
+  Đôi cánh chính là nơi nâng toàn bộ máy bay trên không. có các loại cánh máy bay:
   + Fixed-wing Aircraft
   + Rotary-wing Aircraft
 
