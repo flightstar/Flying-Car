@@ -9,10 +9,12 @@ Phương tiện bay không người lái hay Máy bay không người lái, vi�
 + **Phương tiện bay kiểu mới**, được chế tạo rất đa dạng, **có kích thước và công suất động cơ nhỏ đến trung bình, được gọi là drone.**
 + **Các drone có lắp camera để quan sát, và thường được gọi là flycam. Để thuận tiện điều khiển thao tác thì drone có nhiều cánh quạt, thường là 4.**
 
-Có nhiều hãng sản xuất thiết bị không người lái và bạn có thể lập trình phát triển:
+Có nhiều hãng sản xuất thiết bị không người lái và bạn có thể lập trình phát triển trên mobile, tablet, ứng dụng desktop:
 + [DJI](http://developer.dji.com/)
 + [Parrot](https://developer.parrot.com/index.html)
 + [Flytbase](https://flytbase.com/flytos/)
++ [DroneDeploy](https://www.dronedeploy.com/)
++ [DroneKit](http://dronekit.io/)
 
 
 
