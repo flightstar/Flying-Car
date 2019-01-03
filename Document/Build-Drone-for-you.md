@@ -34,9 +34,18 @@ Tôi cũng xin phép giới thiệu sơ qua các loại máy bay:
   ![](https://cdn.britannica.com/s:700x450/44/93544-004-A211D18D.jpg)
   
   Hai cánh và ở giữa hai hai cánh (nơi giữa thân máy bay) để chứa xăng máy bay. Người ta thường bơm xăng vào hai cánh trước rồi mới thân giữa.
-  Đôi cánh chính là nơi nâng toàn bộ máy bay trên không. có các loại cánh máy bay:
-  + Fixed-wing Aircraft
-  + Rotary-wing Aircraft
+  Đôi cánh chính là nơi nâng toàn bộ máy bay trên không. Có các loại cánh máy bay:
+  + Fixed-wing Aircraft (Máy bay cánh cố định)
+    
+    ![](http://images.policemag.com/articles/M-Beechcraft-2014-Baron-ISR-A2A-sz.jpg)
+    
+  + Rotary-wing Aircraft (Máy bay lên thẳng)
+  
+    ![](http://farm4.static.flickr.com/3254/2347122394_e84c04b09e.jpg)
+    
+  + Tandem-wing craft (Máy bay cánh song song)
+    
+    ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/HB-YBK_mignet_HM-380.jpg/200px-HB-YBK_mignet_HM-380.jpg)
 
 
 
