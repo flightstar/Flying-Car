@@ -33,7 +33,7 @@ Tôi cũng xin phép giới thiệu sơ qua các loại máy bay:
 
   ![](https://cdn.britannica.com/s:700x450/11/129811-004-9D34C115.jpg)
   
-  Là loại máy bay phải sử dụng nguồn năng lượng để cung cấp lực đẩy cần thiết để có được lực nâng. Ví dụ về thiết bị bay nặng hơn không khí như diều, máy bay không người lái, tàu lượn bay (hang-gliding),...
+  Là loại máy bay phải sử dụng nguồn năng lượng để cung cấp lực đẩy cần thiết để có được lực nâng. Ví dụ về thiết bị bay nặng hơn không khí như diều, máy bay không người lái, tàu lượn bay (hang-gliding), trực thăng,...
   ![](https://cdn.britannica.com/s:700x450/63/100263-004-8F5C54B4.jpg)
 + Civil aircraft
   
@@ -45,18 +45,30 @@ Tôi cũng xin phép giới thiệu sơ qua các loại máy bay:
   Đôi cánh chính là nơi nâng toàn bộ máy bay trên không. Có các loại cánh máy bay:
   + Fixed-wing Aircraft (Máy bay cánh cố định)
     
+    Là một loại máy bay có khả năng bay bằng cách sử dụng cánh tạo ra lực nâng được tạo ra bởi sự chuyển dịch về phía trước nhờ động cơ đẩy và hình dạng của cánh máy bay.
+
     ![](http://images.policemag.com/articles/M-Beechcraft-2014-Baron-ISR-A2A-sz.jpg)
     
   + Rotary-wing Aircraft (Máy bay lên thẳng)
-  
+    Là một loại phương tiện bay có động cơ, hoạt động bay bằng cánh quạt, có thể cất cánh, hạ cánh thẳng đứng, có thể bay đứng trong không khí và thậm chí bay lùi.
+    
     ![](http://farm4.static.flickr.com/3254/2347122394_e84c04b09e.jpg)
     
     Chúng có khả năng VTOL (Vertical TakeOff and Landing), tức là cất cánh và hạ cánh theo phương thẳng đứng, hỗ trợ công tác ở những nơi có không gian hẹp như thung lũng, đầm lầy, núi rừng; không gian rộng trên trời dưới nước, cửa sông, biển lớn,...  
     
   + Tandem-wing craft (Máy bay cánh song song)
     
+    Là loại khí cụ bay có hai cánh chính, một đối cánh nằm ở phía trước và đối cánh kia ở phía sau. Cả hai cánh góp phần nâng. Trong trường hợp cánh song song phía sau nhỏ hơn cánh phía trước, giống như cánh đuôi quá khổ, nó được gọi là **cánh Delanne** (từ trong [Maurice Delanne](https://fr.wikipedia.org/wiki/Maurice_Delanne), một nhà thiết kế máy bay cánh song song của Pháp.).
+    
     ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/HB-YBK_mignet_HM-380.jpg/200px-HB-YBK_mignet_HM-380.jpg)
 
+## Unmanned Aerial Vehicle (UAV)
+
+Có nhiều loại máy bay không người lái được sử dụng cho nhiều lĩnh vực. Nhưng ở đây xin đề cập tới loại Drone kích cỡ vừa được sử dụng phổ biến là **[Quadcopter](https://en.wikipedia.org/wiki/Quadcopter)** (là loại Drone sử dụng 4 cánh). Những loại UAV khác, nếu có nhu cầu sản xuất và phát triển UAV thì Trung Quốc, Israel và Mỹ là nơi có nguồn nguyên liệu dồi dào, giá cả phù hợp và công nghệ hàng đầu như [Dajiang Innovations - DJI](https://www.dji.com/) có trụ sở tại Thâm Quyến, Quảng Đông Trung Quốc; [Airobotics](https://www.airoboticsdrones.com/), [SwiftNav](https://www.swiftnav.com/), [3D Robotics](https://3dr.com/),...
+
+**Quad hoặc Quadrotor hoặc Quadro có thân hình chữ X và có 4 cánh quạt được gắn trên mỗi cánh tay. Có 2 cánh quay cùng chiều kim đồng hồ và hai cánh quay ngược chiều kim đồng hồ. Đều này để bảo toàn momen góc (momen động lượng) để cho thân thiết bị bay không xoay vòng**. Định luật bảo toàn mômen động lượng được phát biểu: Mômen động lượng của một hệ không đổi khi hệ chịu tổng cộng các mômen ngoại lực bằng không.
+
+   ![](https://lh3.googleusercontent.com/tbKAh6LxJOtAbOxZLkeMTGgFSpuF3vpWIchXiyq01tBR8-K6RWQTU9sbjU0VBAZuUI9A8jNwL7ebgZ509Kf5X5LdeGceGu27w6eQFvbK8ndyLb_hJUYobYQe94COFFgU9epptwgbtdRzZNbFx0RW-TzANvuF1p_4odWvqPnV7fNZNd7bqtwwCx7eHmQ80SXtoQczsTfvx6QNE64_hA41Qaq0oi-CGqovGNThmmJ7MwuMSIeVIDOb4hJ-4iplgCI7oyaF3xmxJiZWY_EF59jJdWo0lLAOVJP4lU5jj5G66RoIl_o2dK-5OWtd1H8DdM4s0GeW5j2MqRHKR4YP-tfpsdSanwjUDqgNdL1EF0RMAVuhrdgs1qzzA5NJYLIAIn2DctC08EdKxxhozfwK6x-MVaKiz6SolHsIsT1FxZFxPBG55hnVDSYVM75rlwExQ10Y1xBv4Zh2uFWoLmivcGT6D4IKYxSrU3qyoShbJKTUvEUjLUvrRqWQTHG296jXPuFB_irpTE5bkrsNzEWe67OvRjyEviOTB9GRqs_ZWosFFdWI0NBueYBfSlPDxVxlxfbWQY9YTNeZH5K6NtHsaV4UFdYF-eFslviUjpQCay-GfyNoAcjJit0rD3B4Q6P9DRuzOCHYm0B4fo2khTptML-9JjBeWAQFP208e4claYABL0yjGYV_eNHd4AttE538FmpQGsUVSuSU5_G9fgJnsw=s277-no)
 
 
 
