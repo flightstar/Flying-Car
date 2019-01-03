@@ -24,6 +24,8 @@ Tôi cũng xin phép giới thiệu sơ qua các loại máy bay:
 + Heavier-than-air aircraft
 
   ![](https://cdn.britannica.com/s:700x450/11/129811-004-9D34C115.jpg)
+  
+  Là loại máy bay phải sử dụng nguồn năng lượng để cung cấp lực đẩy cần thiết để có được lực nâng. Ví dụ về thiết bị bay nặng hơn không khí như diều, máy bay không người lái, tàu lượn bay (hang-gliding),...
 
 + Civil aircraft
   
