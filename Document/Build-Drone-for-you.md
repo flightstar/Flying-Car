@@ -76,7 +76,7 @@ Có nhiều loại máy bay không người lái được sử dụng cho nhiề
 ## Implementation
 ### Real devices
 
-Bạn có thể chuẩn bị bộ KIT thực hành. Nhiều bộ KIT cho bạn như [Parrot Bebop 2](https://www.parrot.com/us/drones/parrot-bebop-2), [Parrot Mambo](https://www.parrot.com/global/drones/parrot-mambo-fly), [AR Drone 2.0](https://www.parrot.com/global/drones/parrot-ardrone-20-elite-edition),... Ở đây tôi dùng mạch open source [Crazyflie 2.0](https://en.wikipedia.org/wiki/Crazyflie_2.0) và bạn có thể tham khảo trên Amazon bộ [Crazyflie 2.0 Nano Quadcopter Kit](https://www.amazon.com/Crazyflie-2-0-Nano-Quadcopter-Kit/dp/B00QBO5LAS). 
+Bạn có thể chuẩn bị bộ KIT thực hành. Một số bộ KIT như [Parrot Bebop 2](https://www.parrot.com/us/drones/parrot-bebop-2), [Parrot Mambo](https://www.parrot.com/global/drones/parrot-mambo-fly), [AR Drone 2.0](https://www.parrot.com/global/drones/parrot-ardrone-20-elite-edition),... Ở đây tôi dùng mạch open source [Crazyflie 2.0](https://en.wikipedia.org/wiki/Crazyflie_2.0) và bạn có thể tham khảo trên Amazon bộ [Crazyflie 2.0 Nano Quadcopter Kit](https://www.amazon.com/Crazyflie-2-0-Nano-Quadcopter-Kit/dp/B00QBO5LAS). 
 
 Bạn có thể test sản phẩm của [hãng sản xuất Bitcraze](https://www.bitcraze.io/getting-started-with-the-crazyflie-2-0/). Khi bạn mua bất kỳ mạch Drone nào để nghiên cứu hoặc kinh doanh thì nên nghiên cứu kĩ tài liệu kỹ thuật và cách thức vận hành chuyên biệt để làm kỹ thuật. Ngoài ra, có một số cộng đồng nghiên cứu Drone mà bạn có thể tham khảo như dronecode.org, dronecommunity.biz, community.uavcoach.com,...
 
