@@ -64,7 +64,7 @@ Tôi cũng xin phép giới thiệu sơ qua các loại máy bay:
 
 ## Unmanned Aerial Vehicle (UAV)
 
-Có nhiều loại máy bay không người lái được sử dụng cho nhiều lĩnh vực. Nhưng ở đây xin đề cập tới loại Drone kích cỡ vừa được sử dụng phổ biến là **[Quadcopter](https://en.wikipedia.org/wiki/Quadcopter)** (là loại Drone sử dụng 4 cánh). Những loại UAV khác, nếu có nhu cầu sản xuất và phát triển UAV thì Trung Quốc, Israel và Mỹ là nơi có nguồn nguyên liệu dồi dào, giá cả phù hợp và công nghệ hàng đầu như [Dajiang Innovations - DJI](https://www.dji.com/) có trụ sở tại Thâm Quyến, Quảng Đông Trung Quốc; [Airobotics](https://www.airoboticsdrones.com/), [SwiftNav](https://www.swiftnav.com/), [3D Robotics](https://3dr.com/),...
+Có nhiều loại máy bay không người lái được sử dụng cho nhiều lĩnh vực. Nhưng ở đây xin đề cập tới loại Drone kích cỡ vừa được sử dụng phổ biến là **[Quadcopter](https://en.wikipedia.org/wiki/Quadcopter)**. Những loại UAV khác, nếu có nhu cầu sản xuất và phát triển UAV thì Trung Quốc, Israel và Mỹ là nơi có nguồn nguyên liệu dồi dào, giá cả phù hợp và công nghệ hàng đầu như [Dajiang Innovations - DJI](https://www.dji.com/) có trụ sở tại Thâm Quyến, Quảng Đông Trung Quốc; [Airobotics](https://www.airoboticsdrones.com/), [SwiftNav](https://www.swiftnav.com/), [3D Robotics](https://3dr.com/),... dành cho quý bạn.
 
 **Quad hoặc Quadrotor hoặc Quadro có thân hình chữ X và có 4 cánh quạt được gắn trên mỗi cánh tay. Có 2 cánh quay cùng chiều kim đồng hồ và hai cánh quay ngược chiều kim đồng hồ. Đều này để bảo toàn momen góc (momen động lượng) để cho thân thiết bị bay không xoay vòng**. Định luật bảo toàn mômen động lượng được phát biểu: Mômen động lượng của một hệ không đổi khi hệ chịu tổng cộng các mômen ngoại lực bằng không.
 
