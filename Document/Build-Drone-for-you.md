@@ -18,6 +18,8 @@ Có nhiều hãng sản xuất thiết bị không người lái và bạn có t
 + [DroneDeploy](https://www.dronedeploy.com/)
 + [DroneKit](http://dronekit.io/)
 
+Một số hệ điều hành đã từng sử dụng trong hệ thống tên lửa, quý bạn cũng có thể đọc thêm: Zephyr OS, gOS, IBM System/360, SunOS, HP-UX, AIX, Irix systems,... để cho quý bạn phát triển vi mạch điều khiển cho hệ thống nhúng. 
+
 Tôi cũng xin phép giới thiệu sơ qua các loại máy bay:
 + Lighter-than-air aircraft
   
