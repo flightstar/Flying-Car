@@ -18,9 +18,15 @@ Có nhiều hãng sản xuất thiết bị không người lái và bạn có t
 
 Tôi cũng xin phép giới thiệu sơ qua các loại máy bay:
 + Lighter-than-air aircraft
+  
+  Đề cập đến các vật liệu (thường là khí) nổi trong không khí vì chúng có mật độ trung bình thấp hơn không khí. Không khí khô có mật độ khoảng 1,29 g / L (gram mỗi lít) ở điều kiện tiêu chuẩn về nhiệt độ và áp suất (STP) và khối lượng phân tử trung bình là 28,97 g / mol (do 78% Nitơ, 21% Oxi, 1% là khí khác)
+  
+  Bất kỳ khí nào có khối lượng phân tử dưới 29 như Neon, hơi nước, metan, amoniac, Hydrogen, helium,... đều nhẹ hơn không khí
 
   ![](https://cdn.britannica.com/s:700x450/30/91830-004-5560E6CB.jpg)
-
+ 
+  Một số loại phương tiện bay nhẹ hơn không khí như các loại khí cầu.
+  
 + Heavier-than-air aircraft
 
   ![](https://cdn.britannica.com/s:700x450/11/129811-004-9D34C115.jpg)
