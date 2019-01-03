@@ -43,7 +43,7 @@ Tôi cũng xin phép giới thiệu sơ qua các loại máy bay:
   
     ![](http://farm4.static.flickr.com/3254/2347122394_e84c04b09e.jpg)
     
-    Chúng có khả năng VTOL (Vertical TakeOff and Landing), tức là cất cánh và hạ cánh theo phương thẳng đứng, hỗ trợ công tác ở những nơi có không gian hẹp như thung lũng, đầm lầy, núi rừng; không gian rộng trên trời dưới nước, cửa sông, cửa biển,...  
+    Chúng có khả năng VTOL (Vertical TakeOff and Landing), tức là cất cánh và hạ cánh theo phương thẳng đứng, hỗ trợ công tác ở những nơi có không gian hẹp như thung lũng, đầm lầy, núi rừng; không gian rộng trên trời dưới nước, cửa sông, biển lớn,...  
     
   + Tandem-wing craft (Máy bay cánh song song)
     
