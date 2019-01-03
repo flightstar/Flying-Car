@@ -16,5 +16,22 @@ Có nhiều hãng sản xuất thiết bị không người lái và bạn có t
 + [DroneDeploy](https://www.dronedeploy.com/)
 + [DroneKit](http://dronekit.io/)
 
+Tôi cũng xin phép giới thiệu sơ qua các loại máy bay:
++ Lighter-than-air aircraft
+
+  ![](https://cdn.britannica.com/s:700x450/30/91830-004-5560E6CB.jpg)
+
++ Heavier-than-air aircraft
+
+  ![](https://cdn.britannica.com/s:700x450/11/129811-004-9D34C115.jpg)
+
++ Civil aircraft
+  
+  ![](https://cdn.britannica.com/s:700x450/34/196734-004-BC985875.jpg)
+  
+  + Fixed-wing Aircraft
+  + Rotary-wing Aircraft
+
+
 
 
