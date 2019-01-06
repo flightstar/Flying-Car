@@ -3,7 +3,7 @@
 
 Tại phần đầu tiên, tôi sẽ nói về cách lập trình máy bay không người lái bằng code Python và test flight simulator. 
 
-Thị trường máy bay không người lái hay còn được gọi là Drone ngày càng phát triển một cách ghê gớm trên toàn Thế giới. Drone được sử dụng rất nhiều trong an ninh quốc phòng, tìm kiếm vật liệu hóa chất, tìm người lạc, nông nghiệp có thể chăm sóc cây trồng, điện ảnh cho những khung cảnh trên cao vời vợi, giao vận,...
+Thị trường máy bay không người lái hay ngày càng phát triển một cách ghê gớm trên toàn Thế giới. Drone được sử dụng rất nhiều trong an ninh quốc phòng, tìm kiếm vật liệu hóa học, nông nghiệp có thể chăm sóc cây trồng trên diện tích lớn, điện ảnh cho những khung cảnh trên cao vời vợi, giao vận,...
 
 Phương tiện bay không người lái hay Máy bay không người lái, viết tắt tiếng Anh là UAV (Unmanned aerial vehicle) là **tên gọi chỉ chung cho các loại máy bay mà không có người lái ở buồng lái, hoạt động tự lập và thường được điều khiển từ xa từ trung tâm hay máy điều khiển.** Theo sự phát triển công nghệ hiện có các dạng UAV:
 
